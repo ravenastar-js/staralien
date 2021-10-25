@@ -178,7 +178,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **11.1.** A equipe de desenvolvimento/`!Ravena👽⃤ - 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
-> Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
+> Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
 ## Informações adicionais
 
