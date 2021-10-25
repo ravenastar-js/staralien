@@ -158,7 +158,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.9.** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
-**8.10.** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido.
+**8.10.** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
 
 ## 9. DESBANIMENTO
 
