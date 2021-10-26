@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 25/10/2021
+* **Última atualização:** 25/10/2021 
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -185,6 +185,6 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 • 🐛 [**Reportar bugs**](https://forms.gle/ryN6gRpxwiuWTeoA8)  
 • 👮‍♂️ [**Denunciar usuários**](https://forms.gle/oK7iaW2MvQh4GoD48)
 
-ℹ [Mais informações](https://github.com/StarlineBR/staralien/wiki) - [Documentação](https://docs.staralienpremium.com)
+ℹ [Documentação](https://docs.staralienpremium.com)
 
 ℹ `!StarAlien - BETA` é um bot **free** que tem vários sistemas de moderação, administração dentre outros, a maioria dos sistemas são estáticos não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A proposta da aplicação é ter vários comandos úteis, porém de forma limitada, pois a feature do bot é **BETA**, ou seja podem ter funções premium do bot `!StarAlien - PREMIUM` implementada no bot **BETA** sem ter que pagar nada por isso, porém com ações limitadas que já vem predefinidas no sistema do mesmo, o propósito é ajudar usuários que não tem condições de pagar para poder usar o `!StarAlien - PREMIUM`, mas sempre damos oportunidades de alguém ter a chance de usar o bot **PREMIUM** de forma free. A versão **BETA** é mais instável que a versão **PREMIUM**, podendo ter vários recursos modificados ou removidos durante o desenvolvimento, se vocês querem algo mais automatizado, personalizável e menos instável que a versão **BETA** vocês podem realizar doações para adquirir a versão **PREMIUM**.
