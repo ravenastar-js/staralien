@@ -160,7 +160,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.10.** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
 
-**8.11** Qualquer **violação do segredo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940).
+**8.11** Qualquer **violação do segredo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940).
 
 ## 9. DESBANIMENTO
 
