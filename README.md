@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 25/10/2021 
+* **Última atualização:** 27/10/2021 
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
