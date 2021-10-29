@@ -176,7 +176,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **9.2.** Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas e autoconhecimento do erro, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
 
-**9.3.** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores do `!StarAlien`.
+**9.3.** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores de `!StarAlien`.
 
 **9.4.** Ao ser desbanido\(a\) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos, porém o pagamento para reestabelecer os dados é a parte, pagamento para reestabelecer os dados vai contabilizar como doação.
 
