@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 28/10/2021 
+* **Última atualização:** 29/10/2021 
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -47,7 +47,11 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **2.3.** A equipe de desenvolvimento de `!StarAlien` poderá alterar qualquer parte do TCLE & Privacidade em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando `!StarAlien` de qualquer forma ou violou algumas das cláusulas em `TCLE & Privacidade`, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do TCLE & Privacidade.
 
-**2.3.** o usuário confirma que ao processar judicialmente a equipe de desenvolvimento de `!StarAlien` sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
+**2.3.** O usuário entende e concorda que ao processar judicialmente a equipe de desenvolvimento de `!StarAlien` sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
+
+**2.4** O usuário entende e concorda que o uso dos projetos ou aplicações é por sua conta e risco e que os serviços são fornecidos "como estão" e "como disponível".
+
+**2.5** O usuário entende e concorda que`!StarAlien`, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os projetos ou aplicações, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, !StarAlien, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos projetos e aplicações atenderá a suas necessidades, (b) o uso dos projetos ou aplicações será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através dos projetos ou aplicações serão precisos.
 
 ## 3. BOT
 
@@ -164,6 +168,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.12.** É proibido discussões de qualquer vertente antiética ou sem finalidade positiva, caso contrario haverá punição.
 
+**8.13.** Você concorda que `!Ravena👽⃤ - 367893062812434432`, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode realizar punições em sua conta ou realizar bloqueio geral de todos os projetos e aplicações.
+
 ## 9. DESBANIMENTO
 
 **9.1.** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento do `!StarAlien`, através do servidor de suporte ou em seus privados(DM).
@@ -181,6 +187,10 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 ## 11. Termos jurídicos gerais
 
 **11.1.** A equipe de desenvolvimento/`!Ravena👽⃤ - 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
+
+**11.2.** Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
+
+**11.3.** Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture (empreendimento conjunto).
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
