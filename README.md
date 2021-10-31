@@ -41,6 +41,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **1.4** Os dados são coletados voluntariamente com a permissão do usuários, permissão essa cuja qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
 
+**1.5** `!Ravena👽⃤ - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso será adicionados na blacklist dos projetos e aplicações. 
+
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
 **2.1** Ao usar `!StarAlien` (o "Bot") ou qualquer outro projeto, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
