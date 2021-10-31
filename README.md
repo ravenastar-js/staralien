@@ -39,6 +39,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos. 
 
+**1.4** Os dados são coletados voluntariamente com a permissão do usuários, permissão essa cuja qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
+
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
 **2.1** Ao usar `!StarAlien` (o "Bot") ou qualquer outro projeto, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
