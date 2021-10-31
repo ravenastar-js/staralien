@@ -150,7 +150,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **8.3** É feita análise holística diante do contexto ou da situação de cada usuário, ou tipo de punição. 
 
 **8.4** Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como:
-` (a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou do bot. (c) Má conduta do usuário dentre outras situações do gênero.`
+` (a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou dos projetos. (c) Má conduta do usuário e dentre outras situações do gênero.`
 
 **8.5** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
 
