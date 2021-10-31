@@ -114,4 +114,100 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **4.5** Ao realizar doações você autoriza e concorda que não há reembolso em doações.
 
-**4.6** Se o\(a\) doador\(a\) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-d
+**4.6** Se o\(a\) doador\(a\) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal ou o artigo referente ao País do\(a\) doador\(a\).
+
+**4.7** Caso seja menor de idade será possível doações por parte de confirmação e acompanhamento do responsável legal.
+
+**4.8** Você concorda que ao realizar qualquer tipo de doação terá que informar dados reais perante sua pessoa, tais como: `data de nascimento, nome completo, documento de identificação, CPF/NIF` para contribuir na fiscalização em relação à doações não autorizadas de menores. As informações devem ser enviadas via email `666ravena.js@gmail.com` e não via Discord. Você não poderá realizar doações se você for uma pessoa impedida sob as leis de qualquer país em relação ao `TCLE & Privacidade`, incluindo o país onde o usuário é residente ou a partir do qual realizar a doação.
+
+## 5. BANCO DE DADOS E ARMAZENAMENTOS
+
+**5.1** Quase todas as informações dos servidores onde `!StarAlien` está associado, são registradas em seu banco de dados, sendo assim todas as devidas alterações também seguirão com as mesmas em seu banco de dados podendo ocorrer também à perda de informações.
+
+**5.2** Caso há tais perdas nas informações já registradas, a equipe de desenvolvedores não se responsabiliza pelas seguintes informações:
+
+> * 5.2.1 Perda de dados caso o `!StarAlien` deixe o servidor.
+> * 5.2.2 Perda de dados em caso de problemas com a host ou banco de dados do `!StarAlien`.
+> * 5.2.3 Perda de dados caso ocorra atualizações no `!StarAlien`.
+> * 5.2.4 Perda de dados e informações caso ocorram atualização no Node.js/Discord.js.
+> * 5.2.5 Perda de dados e informações caso ocorram manutenções no `!StarAlien`.
+
+## 6. INDISPONIBILIDADE
+
+**6.1** Podem ocorrer determinadas indisponibilidades no `!StarAlien` fazendo o mesmo não funcionar corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvimento não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
+
+**6.2** Anúncios, avisos e demais afins são divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
+
+**6.3** Caso note que algo não esteja funcionando corretamente, reporte para a equipe de desenvolvimento para que seja possível a solução de seu problema.
+
+**6.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
+
+## 7. PERMISSÕES
+
+**7.1** Dê ao `!StarAlien` em seu servidor a permissão `ADMINISTRADOR`, para que `!StarAlien` funcione corretamente e não dê problemas caso o mesmo tente executar algum comando e não ter permissão para isso.
+
+**7.2** Não nós responsabilizamos caso o `!StarAlien` não consiga executar tais funções por falta de permissão. Portanto se certifique que as devidas permissões estejam corretas conforme a cláusula `7.1`.
+
+**7.3** Caso queira ajudar a equipe de desenvolvimento em relação aos projetos/`!StarAlien` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) da equipe de desenvolvimento é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia via ticket/servidor de suporte ou formulário. 
+
+## 8. PUNIÇÕES
+
+**8.1** As punições ocorrerão conforme a gravidade da infração. A equipe de desenvolvimento determinará a melhor forma de punir cada usuário conforme o descumprimento de uma das cláusulas desse termo.
+
+**8.2** A punição, poderá ocorrer também de forma automática conforme a movimentação involuntária do usuário seja ela temporário ou permanente podendo sofrer punições no `!StarAlien` forma parcial e/ou total em uso de suas funções.
+
+**8.3** É feita análise holística diante do contexto ou da situação de cada usuário, ou tipo de punição. 
+
+**8.4** Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como:
+` (a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou dos projetos. (c) Má conduta do usuário e dentre outras situações do gênero.`
+
+**8.5** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
+
+**8.6** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
+
+**8.7** Não ficar corrigindo erros ortográficos de aplicações/projetos em servidores de terceiros/DM da equipe de desenvolvimento, pois isso pode gerar discussões irrelevantes e atrapalhar outras prioridades da equipe, use os meios legais para reportar tais erros que é via servidor de suporte/ticket ou formulário, a persistência do mesmo haverá punições, use o bom senso. `Discord é um ambiente que essas regras gramaticais não precisam ser aplicadas à risca. É um ambiente descontraído e sem necessidade de formalidade. Dessa forma, o que mais importa é manter uma conversação/informação que ambas as partes entendam o que está sendo dito.`
+
+**8.8** Não dê sugestões, opiniões ou indução do que a equipe de desenvolvimento deve fazer ou não referente aos projetos/`!StarAlien` em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmo, pois se nunca usou ou não entende o foco principal da equipe de desenvolvimento não persista em continuar, caso continue será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
+
+**8.9** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
+
+**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
+
+**8.11** Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940).
+
+**8.12** É proibido discussões de qualquer vertente antiética ou sem finalidade positiva, caso contrario haverá punição.
+
+**8.13** Você concorda que `!Ravena👽⃤ - 367893062812434432`, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode realizar punições em sua conta ou realizar bloqueio geral de todos os projetos e aplicações.
+
+## 9. DESBANIMENTO
+
+**9.1** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento do `!StarAlien`, através do servidor de suporte ou em seus privados(DM).
+
+**9.2** Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas e autoconhecimento do erro, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
+
+**9.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores de `!StarAlien`.
+
+**9.4** Ao ser desbanido\(a\) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos, porém o pagamento para reestabelecer os dados é a parte, pagamento para reestabelecer os dados vai contabilizar como doação.
+
+## 10. INDENIZAÇÃO
+
+**10.1** Você concorda em isentar e indenizar `!StarAlien`, e suas subsidiárias, afiliadas, equipe de desenvolvimento de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
+
+## 11. Termos jurídicos gerais
+
+**11.1** A equipe de desenvolvimento/`!Ravena👽⃤ - 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
+
+**11.2** Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
+
+**11.3** Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture (empreendimento conjunto).
+
+> Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
+
+## Informações adicionais
+
+• 🐛 [**Reportar bugs**](https://forms.gle/ryN6gRpxwiuWTeoA8)  
+• 👮‍♂️ [**Denunciar usuários**](https://forms.gle/oK7iaW2MvQh4GoD48)
+
+ℹ [Documentação](https://docs.staralienpremium.com)
+
+ℹ `!StarAlien - BETA` é um bot **free** que tem vários sistemas de moderação, administração dentre outros, a maioria dos sistemas são estáticos não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A versão **BETA** é mais instável podendo ter vários recursos modificados ou removidos durante o desenvolvimento.
