@@ -39,12 +39,12 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos. 
 
-**1.4** Os dados são coletados voluntariamente com a permissão do usuários, permissão essa cuja qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
+**1.4** Os dados são coletados voluntariamente com a permissão do usuário, permissão essa cujo qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
 
 **1.5** `!Ravena👽⃤ - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
 
-**1.6** Você concorda que terá que enviar autorização por escrito no email `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital, tendo as seguintes informações: Eu ( nome de usuário + ID Discord ) autorizo que `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento, projetos ou aplicações fazerem coletas dos meus dados sensíveis e autorizo as divulgaões dos mesmos  de acordo com `TCLE & Privacidade` em https://docs.staralienpremium.com/termos/ e https://github.com/StarlineBR/staralien. 
-> A autorização por escrito deverá ser enviada com o próprio email que está registrado em sua conta do Discord. 
+**1.6** Você concorda que terá que enviar autorização por escrito no email `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital, tendo as seguintes informações: Eu ( nome de usuário + ID Discord ) autorizo que `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento, projetos ou aplicações fazerem coletas dos meus dados sensíveis e autorizando as divulgações dos mesmos de acordo com `TCLE & Privacidade` listando em https://docs.staralienpremium.com/termos/ e https://github.com/StarlineBR/staralien. 
+> A autorização por escrito deverá ser enviar com o próprio email que está registrado na conta do Discord. 
 
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitações de usar qualquer projeto ou aplicação. 
 
