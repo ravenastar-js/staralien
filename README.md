@@ -49,7 +49,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
 
-**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados do banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/BkmjRp/solicitação.pdf).
+**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados do banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/wBkbCi/solicitação.pdf).
 > Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - solicitação`
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
