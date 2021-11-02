@@ -52,7 +52,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/wBkbCi/solicitação.pdf).
 > Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - solicitação`
 
-**1.9** Caso haja indícios de adulteração em alguns dos documentos das cláusulas `1.6 e 1.8` será solicitado **reconhecimento de firma** para a validação dos documentos, o **reconhecimento de firma** deverá ser enviado para o e-mail `666ravena.js@gmail.com`.
+**1.9** Caso haja indícios de adulteração em alguns dos documentos das cláusulas `1.6 e 1.8` será solicitado **reconhecimento de firma** para a validação dos documentos, o **reconhecimento de firma** deverá ser enviado para o e-mail `666ravena.js@gmail.com` e não esqueça de fazer a **autenticação de cópia eletrônica** para enviar via e-mail.
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
