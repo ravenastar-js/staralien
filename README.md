@@ -48,7 +48,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 <br>exemplo:<br>
 ![](https://i.imgur.com/xzC7oZg.png)
 
-**1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitações de 90% ao usar qualquer projeto ou aplicação.
+**1.7** Você concorda que se não enviar a autorização da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
