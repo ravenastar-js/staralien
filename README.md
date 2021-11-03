@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 02/11/2021 
+* **Última atualização:** 03/11/2021 
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -64,7 +64,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **2.4** O usuário entende e concorda que ao processar judicialmente a equipe de desenvolvimento de `!StarAlien` sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
 
-**2.5** O usuário entende e concorda que o uso dos projetos ou aplicações é por sua conta e risco e que os serviços são fornecidos "como estão" e "como disponível".
+**2.5** O usuário entende e concorda que o uso dos projetos ou aplicações é por sua conta e risco e que são fornecidos "como estão" e "como disponíveis".
 
 **2.6** O usuário entende e concorda que`!StarAlien`, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os projetos ou aplicações, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, !StarAlien, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos projetos e aplicações atenderá a suas necessidades, (b) o uso dos projetos ou aplicações será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através dos projetos ou aplicações serão precisos.
 
@@ -148,11 +148,13 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **6.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
+**6.5** O usuário entende que há possibilidade da aplicação entrar em manutenção a qual quer momento, sem aviso prévio.
+
 ## 7. PERMISSÕES
 
 **7.1** Dê ao `!StarAlien` em seu servidor a permissão `ADMINISTRADOR`, para que `!StarAlien` funcione corretamente e não dê problemas caso o mesmo tente executar algum comando e não ter permissão para isso.
 
-**7.2** Não nós responsabilizamos caso o `!StarAlien` não consiga executar tais funções por falta de permissão. Portanto se certifique que as devidas permissões estejam corretas conforme a cláusula `7.1`.
+**7.2** Não nós responsabilizamos caso `!StarAlien` não consiga executar tais funções por falta de permissões. Portanto certifique que as devidas permissões estejam corretas conforme a cláusula `7.1`.
 
 **7.3** Caso queira ajudar a equipe de desenvolvimento em relação aos projetos/`!StarAlien` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) da equipe de desenvolvimento é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia via ticket/servidor de suporte ou formulário. 
 
@@ -179,7 +181,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
 
-**8.11** Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940).
+**8.11** Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
 **8.12** É proibido discussões de qualquer vertente antiética ou sem finalidade positiva, caso contrario haverá punição.
 
