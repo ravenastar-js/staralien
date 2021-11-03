@@ -53,7 +53,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 > Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - solicitação`
 
 **1.9** Caso haja indícios de adulteração em alguns dos documentos listado nas cláusulas `1.6 e 1.8` será solicitado **reconhecimento de firma** para a validação dos documentos, o **reconhecimento de firma** deverá ser enviado para o e-mail `666ravena.js@gmail.com` e não esqueça de fazer a **autenticação de cópia eletrônica** para enviar via e-mail.
-> Os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo [site](https://cenad.e-notariado.org.br).<br>fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
+> Os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).<br>fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
