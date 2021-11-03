@@ -148,7 +148,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **6.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
-**6.5** O usuário entende que há possibilidade da aplicação entrar em manutenção a qual quer momento, sem aviso prévio.
+**6.5** O usuário entende que há possibilidade dos projetos ou aplicações entrar em manutenção a qualquer momento, sem aviso prévio.
 
 ## 7. PERMISSÕES
 
