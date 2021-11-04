@@ -44,7 +44,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **1.5** `!Ravena👽⃤ - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
 > Essa cláusula é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 
-**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/qmrQtV/autorização.pdf).
+**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/6hRjy8/autorização.pdf).
 > Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - autorização`
 
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
@@ -214,9 +214,9 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## Informações adicionais
 
-• 🐛 [**Reportar bugs**](https://forms.gle/ryN6gRpxwiuWTeoA8)  
-• 👮‍♂️ [**Denunciar usuários**](https://forms.gle/oK7iaW2MvQh4GoD48)
+• 🐛 [**Reportar bugs**](https://forms.gle/GHqxYwHHjWHR1Szp9)  
+• 👮‍♂️ [**Denunciar usuários**](https://forms.gle/33ScNDMoHP13rm2BA)
 
-ℹ [Documentação](https://docs.staralienpremium.com)
+ℹ [Documentação](https://docs.staralienbot.com)
 
 ℹ `!StarAlien - BETA` é um bot **free** que tem vários sistemas de moderação, administração dentre outros, a maioria dos sistemas são estáticos não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A versão **BETA** é mais instável podendo ter vários recursos modificados ou removidos durante o desenvolvimento.
