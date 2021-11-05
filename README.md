@@ -1,12 +1,12 @@
 ---
-description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
+description: É importante ler o TCLE & Privacidade antes de usar projetos ou aplicações.
 ---
 
 # TCLE & Privacidade
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 03/11/2021 
+* **Última atualização:** 03/11/2021
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -21,7 +21,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**_**Desbanimento**_**":** Ato de remover as punições/proibições para que usuários possam usar `!StarAlien` sem limitações.
 
-**"**_**Banido\(a\)/Banimento**_**":** Ato de punir/proibir ou limitar que usuários usem `!StarAlien`.
+**"**_**Banido(a)/Banimento**_**":** Ato de punir/proibir ou limitar que usuários usem `!StarAlien`.
 
 **"**_**Servidores/servidores/grupo do Discord**_**":** Servidores/Grupos do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord)
 
@@ -33,27 +33,32 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 > Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
-**1.1** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes nos BOT's, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas). Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
+**1.1** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes nos BOT's, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas). Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
 **1.2** Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir as informações para terceiros exceto se violar `TCLE & Privacidade`/cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
 
-**1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos. 
+**1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos.
 
 **1.4** Os dados são coletados voluntariamente com a permissão do usuário, permissão essa cujo qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
 
 **1.5** `!Ravena👽⃤ - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
+
 > Essa cláusula é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 
-**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/6hRjy8/autorização.pdf).
+**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/6hRjy8/autoriza%C3%A7%C3%A3o.pdf).
+
 > Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - autorização`
 
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
 
-**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/wBkbCi/solicitação.pdf).
+**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/wBkbCi/solicita%C3%A7%C3%A3o.pdf).
+
 > Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - solicitação`
 
 **1.9** Caso haja indícios de adulteração em alguns dos documentos listado nas cláusulas `1.6 e 1.8` será solicitado **reconhecimento de firma** para a validação dos documentos, o **reconhecimento de firma** deverá ser enviado para o e-mail `666ravena.js@gmail.com` e não esqueça de fazer a **autenticação de cópia eletrônica** para enviar via e-mail.
-> Os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).<br>fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
+
+> Os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).\
+> fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
@@ -71,21 +76,21 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## 3. BOT
 
-**3.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT. Nenhum usuário tem obrigação de usar ou adicionar `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido\(a\) de usar todas as suas funções.
+**3.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT. Nenhum usuário tem obrigação de usar ou adicionar `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido(a) de usar todas as suas funções.
 
-**3.2** Alguns comandos são de uso exclusivo de desenvolvedores e a equipe do servidor de suporte do `!StarAlien`, a tentativa forçada de tais comandos fará com que você seja banido\(a\) de usar todas as suas funções. Caso note bugs ao executar comandos em `!StarAlien`, reporte para a equipe de desenvolvimento e não fique abusando para receber vantagens acima de outros usuários de forma desonesta ou usar para ficar derrubando o BOT.
+**3.2** Alguns comandos são de uso exclusivo de desenvolvedores e a equipe do servidor de suporte do `!StarAlien`, a tentativa forçada de tais comandos fará com que você seja banido(a) de usar todas as suas funções. Caso note bugs ao executar comandos em `!StarAlien`, reporte para a equipe de desenvolvimento e não fique abusando para receber vantagens acima de outros usuários de forma desonesta ou usar para ficar derrubando o BOT.
 
 **3.3** O servidor de suporte das aplicações `!StarAlien` foi criado com o intuito de sanar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições de usar o `!StarAlien`.
 
-**3.4** Ofender os desenvolvedores, membros e a equipe do servidor de suporte do `!StarAlien` ou em suas DM's (Mensagens Diretas), fará com que você seja punido\(a\) de acordo com o `TCLE & Privacidade`.
+**3.4** Ofender os desenvolvedores, membros e a equipe do servidor de suporte do `!StarAlien` ou em suas DM's (Mensagens Diretas), fará com que você seja punido(a) de acordo com o `TCLE & Privacidade`.
 
-**3.5** Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de desenvolvimento usem o `!StarAlien` ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores (caso os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada) e aos usuários que realizaram a ação, com isso os servidores/usuários em questão vão ser adicionados a blacklist de qualquer projeto ou  aplicação.
+**3.5** Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de desenvolvimento usem o `!StarAlien` ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores (caso os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada) e aos usuários que realizaram a ação, com isso os servidores/usuários em questão vão ser adicionados a blacklist de qualquer projeto ou aplicação.
 
-**3.6** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções do `!StarAlien` e será reportado\(a\) para a equipe do Discord se possível. Fique sempre atento\(a\) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou o `TCLE & Privacidade`.
+**3.6** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções do `!StarAlien` e será reportado(a) para a equipe do Discord se possível. Fique sempre atento(a) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou o `TCLE & Privacidade`.
 
-**3.7** `!StarAlien` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW ou NSFL \(not safe for work/not safe for life\).
+**3.7** `!StarAlien` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW ou NSFL (not safe for work/not safe for life).
 
-**3.8** Abusar de alguns comandos, fará com que você tenha limitações no uso das funções do `!StarAlien`, portanto evite o máximo para não utilizá-lo de forma irregular para evitar também que você seja banido\(a\) de usar todas as suas funções.
+**3.8** Abusar de alguns comandos, fará com que você tenha limitações no uso das funções do `!StarAlien`, portanto evite o máximo para não utilizá-lo de forma irregular para evitar também que você seja banido(a) de usar todas as suas funções.
 
 **3.9** Ao usar o `!StarAlien` você concorda que ele é um BOT seguro, não viola os termos de serviço do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao mesmo espalhando asneiras, falácias, boatos ou algo do gênero, é contra a `TCLE & Privacidade`.
 
@@ -105,13 +110,13 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **3.17** Não podemos ou garantimos que `!StarAlien` vão estar sempre seguros ou livres de erros, portanto caso haja erros cujos quais possam ocasionar danos aos demais envolvidos de forma não intencional, nós não responsabilizamos por tais atos, ao usar `!StarAlien` você isenta o mesmo sobre quaisquer danos que possa ter ocasionado de forma não intencional.
 
-**3.18** A maioria dos dados só podem ser acessados por `!Ravena👽⃤ - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros (exceto se violar a cláusula `8.5` ou `TCLE & Privacidade`), informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula. 
+**3.18** A maioria dos dados só podem ser acessados por `!Ravena👽⃤ - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros (exceto se violar a cláusula `8.5` ou `TCLE & Privacidade`), informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula.
 
 **3.19** `!StarAlien` pode criar convites em seus servidores e a criação dos invites só é possível pela equipe de desenvolvimento e somente a equipe vai poder entrar através do link criado, ao usar `!StarAlien` você concorda automaticamente com tudo que foi informado autorizando a equipe de desenvolvimento entrar pelo link que foi criado por `!StarAlien` ou aos demais projetos.
 
 ## 4. RECURSOS PREMIUM
 
-**4.1** Requisitos do `!StarAlien - PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido\(a\) de usar todas as suas funções de forma permanente, não abuse.
+**4.1** Requisitos do `!StarAlien - PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido(a) de usar todas as suas funções de forma permanente, não abuse.
 
 **4.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade dos desenvolvedores, ou seja você doa para que o projeto oferece e não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue.
 
@@ -121,7 +126,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **4.5** Ao realizar doações você autoriza e concorda que não há reembolso em doações.
 
-**4.6** Se o\(a\) doador\(a\) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal ou o artigo referente ao País do\(a\) doador\(a\).
+**4.6** Se o(a) doador(a) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal ou o artigo referente ao País do(a) doador(a).
 
 **4.7** Caso seja menor de idade será possível doações por parte de confirmação e acompanhamento do responsável legal.
 
@@ -157,7 +162,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **7.2** Não nós responsabilizamos caso `!StarAlien` não consiga executar tais funções por falta de permissões. Portanto certifique que as devidas permissões estejam corretas conforme a cláusula `7.1`.
 
-**7.3** Caso queira ajudar a equipe de desenvolvimento em relação aos projetos/`!StarAlien` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) da equipe de desenvolvimento é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia via ticket/servidor de suporte ou formulário. 
+**7.3** Caso queira ajudar a equipe de desenvolvimento em relação aos projetos/`!StarAlien` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) da equipe de desenvolvimento é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia via ticket/servidor de suporte ou formulário.
 
 ## 8. PUNIÇÕES
 
@@ -165,10 +170,9 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.2** A punição, poderá ocorrer também de forma automática conforme a movimentação involuntária do usuário seja ela temporário ou permanente podendo sofrer punições no `!StarAlien` forma parcial e/ou total em uso de suas funções.
 
-**8.3** É feita análise holística diante do contexto ou da situação de cada usuário, ou tipo de punição. 
+**8.3** É feita análise holística diante do contexto ou da situação de cada usuário, ou tipo de punição.
 
-**8.4** Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como:
-` (a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou dos projetos. (c) Má conduta do usuário e dentre outras situações do gênero.`
+**8.4** Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como: `(a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou dos projetos. (c) Má conduta do usuário e dentre outras situações do gênero.`
 
 **8.5** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
 
@@ -180,7 +184,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.9** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
-**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
+**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
 
 **8.11** Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
@@ -196,7 +200,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **9.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores de `!StarAlien`.
 
-**9.4** Ao ser desbanido\(a\) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos, porém o pagamento para reestabelecer os dados é a parte, pagamento para reestabelecer os dados vai contabilizar como doação.
+**9.4** Ao ser desbanido(a) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos, porém o pagamento para reestabelecer os dados é a parte, pagamento para reestabelecer os dados vai contabilizar como doação.
 
 ## 10. INDENIZAÇÃO
 
@@ -214,7 +218,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## Informações adicionais
 
-• 🐛 [**Reportar bugs**](https://forms.gle/GHqxYwHHjWHR1Szp9)  
+• 🐛 [**Reportar bugs**](https://forms.gle/GHqxYwHHjWHR1Szp9)\
 • 👮‍♂️ [**Denunciar usuários**](https://forms.gle/33ScNDMoHP13rm2BA)
 
 ℹ [Documentação](https://docs.staralienbot.com)
