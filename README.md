@@ -62,13 +62,13 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
-**2.1** Ao usar `!StarAlien` (o "Bot") ou qualquer outro projeto, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
+**2.1** Ao usar `!StarAlien` (o "Bot") ou qualquer outro projeto/aplicação, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
 
-**2.2** Ao utilizar quaisquer das funcionalidades de `!StarAlien`, o usuário confirma que leu, entendeu e aceitou o presente TCLE & Privacidade em sua totalidade. Caso não concorde com TCLE & Privacidade, o usuário não deverá utilizar `!StarAlien` ou qualquer outro projeto.
+**2.2** Ao utilizar quaisquer das funcionalidades de projetos ou aplicações, o usuário confirma que leu, entendeu e aceitou o presente TCLE & Privacidade em sua totalidade. Caso não concorde com TCLE & Privacidade, o usuário não deverá utilizar projetos ou aplicações.
 
-**2.3** A equipe de desenvolvimento de `!StarAlien` poderá alterar qualquer parte do TCLE & Privacidade em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando `!StarAlien` de qualquer forma ou violou algumas das cláusulas em `TCLE & Privacidade`, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do TCLE & Privacidade.
+**2.3** A equipe de desenvolvimento de projetos ou aplicações poderá alterar qualquer parte do TCLE & Privacidade em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando projetos ou aplicações de qualquer forma ou violou algumas das cláusulas em `TCLE & Privacidade`, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do TCLE & Privacidade.
 
-**2.4** O usuário entende e concorda que ao processar judicialmente a equipe de desenvolvimento de `!StarAlien` sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
+**2.4** O usuário entende e concorda que ao processar judicialmente a equipe de desenvolvimento sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
 
 **2.5** O usuário entende e concorda que o uso dos projetos ou aplicações é por sua conta e risco e que são fornecidos "como estão" e "como disponíveis".
 
@@ -146,7 +146,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## 6. INDISPONIBILIDADE
 
-**6.1** Podem ocorrer determinadas indisponibilidades no `!StarAlien` fazendo o mesmo não funcionar corretamente e/ou ficar offline em seu servidor. A equipe de desenvolvimento não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso de seus comandos.
+**6.1** Podem ocorrer determinadas indisponibilidades em projetos ou aplicações fazendo que os mesmos não funcionem corretamente e/ou fiquem offline em seu servidor. A equipe de desenvolvimento não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso.
 
 **6.2** Anúncios, avisos e demais afins são divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
@@ -154,7 +154,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **6.4** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
-**6.5** O usuário entende que há possibilidade dos projetos ou aplicações entrar em manutenção a qualquer momento, sem aviso prévio.
+**6.5** O usuário entende que há possibilidade dos projetos ou aplicações entrarem em manutenção a qualquer momento, sem aviso prévio.
 
 ## 7. PERMISSÕES
 
@@ -180,7 +180,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.7** Não ficar corrigindo erros ortográficos de aplicações/projetos em servidores de terceiros/DM da equipe de desenvolvimento, pois isso pode gerar discussões irrelevantes e atrapalhar outras prioridades da equipe, use os meios legais para reportar tais erros que é via servidor de suporte/ticket ou formulário, a persistência do mesmo haverá punições, use o bom senso. `Discord é um ambiente que essas regras gramaticais não precisam ser aplicadas à risca. É um ambiente descontraído e sem necessidade de formalidade. Dessa forma, o que mais importa é manter uma conversação/informação que ambas as partes entendam o que está sendo dito.`
 
-**8.8** Não dê sugestões, opiniões ou indução do que a equipe de desenvolvimento deve fazer ou não referente aos projetos/`!StarAlien` em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmo, pois se nunca usou ou não entende o foco principal da equipe de desenvolvimento não persista em continuar, caso continue será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
+**8.8** Não dê sugestões, opiniões ou indução do que a equipe de desenvolvimento deve fazer ou não referente aos projetos ou aplicações em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmo, pois se nunca usou ou não entende o foco principal da equipe de desenvolvimento não persista em continuar, caso continue será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
 **8.9** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
@@ -194,11 +194,11 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## 9. DESBANIMENTO
 
-**9.1** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento do `!StarAlien`, através do servidor de suporte ou em seus privados(DM).
+**9.1** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento, através do servidor de suporte ou em seus privados(DM).
 
 **9.2** Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas e autoconhecimento do erro, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
 
-**9.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores de `!StarAlien`.
+**9.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores.
 
 **9.4** Ao ser desbanido(a) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos, porém o pagamento para reestabelecer os dados é a parte, pagamento para reestabelecer os dados vai contabilizar como doação.
 
