@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 03/11/2021
+* **Última atualização:** 09/11/2021
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -59,6 +59,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 > Os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).\
 > fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
+
+**1.10** Você concorda em cumprir com a [Política de Uso](https://docs.staralienbot.com/policy), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
