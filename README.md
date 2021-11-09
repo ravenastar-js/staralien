@@ -13,21 +13,21 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 As seguintes definições são aplicáveis em conjunto com outros termos definidos neste instrumento:
 
-**"**_**!StarAlien/Projeto**_**":** Quaisquer aplicações ou projetos ministrados por `!Ravena👽⃤ - 367893062812434432`.
+**"**_**!StarAlien/Projeto**_**":** Quaisquer aplicações ou projetos de `!Ravena👽⃤ - 367893062812434432`.
 
 **"**_**Termos**_**":** TCLE & Privacidade
 
-**"**_**Usuário/Usuários/usuário/usuários**_**":** Demais pessoas que usam quaisquer aplicações ou projetos ministrados por `!Ravena👽⃤ - 367893062812434432`.
+**"**_**Usuário/Usuários/usuário/usuários**_**":** Demais pessoas que usam quaisquer aplicações ou projetos de `!Ravena👽⃤ - 367893062812434432`.
 
 **"**_**Desbanimento**_**":** Ato de remover as punições/proibições para que usuários possam usar `!StarAlien` sem limitações.
 
-**"**_**Banido(a)/Banimento**_**":** Ato de punir/proibir ou limitar que usuários usem `!StarAlien`.
+**"**_**Banido(a)/Banimento**_**":** Ato de punir/proibir ou limitar que usuários usem projetos ou aplicações.
 
 **"**_**Servidores/servidores/grupo do Discord**_**":** Servidores/Grupos do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord)
 
-**"**_**BOT**_**":** Aplicações do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) feitas em `https://discord.com/developers/applications` e ministrado por `!Ravena👽⃤ - 367893062812434432`.
+**"**_**BOT**_**":** Aplicações do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) feitas em `https://discord.com/developers/applications` por `!Ravena👽⃤ - 367893062812434432`.
 
-**"**_**!Ravena👽⃤ - 367893062812434432/!Ravena**_**:** Responsável por quaisquer aplicações ou projetos listados em `TCLE & Privacidade`.
+**"**_**!Ravena👽⃤ - 367893062812434432/!Ravena**_**:** CEO de aplicações ou projetos listados em `TCLE & Privacidade`.
 
 **"**[**Letras azuis ou roxas**](https://guides.github.com/features/mastering-markdown/)**:"** As letras azuis ou roxas são hiperligação/hiperlink ou URL.
 
