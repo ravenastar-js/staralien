@@ -4,8 +4,8 @@ description: É importante ler a Política de Uso antes de usar projetos ou apli
 
 # Política de Uso
 
-* **Última atualização: **09/11/2021
-* **Efetividade: **09/11/2021
+* **Última atualização:** 09/11/2021
+* **Efetividade:** 09/11/2021
 
 Esta política de uso estabelece as regras para utilização das aplicações e projetos listados em [TCLE & Privacidade](https://docs.staralienbot.com/termos). Informamos que ao usar projetos e aplicações você estará aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não use as aplicações ou projetos. A utilização de projetos ou aplicações entrará em concordância com as cláusulas aqui apresentadas.
 
@@ -23,7 +23,5 @@ Por favor, note que nós podemos mudar nossa Política de Uso, a qualquer moment
 8. Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de projetos ou aplicações não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 9. É proibido discussões de qualquer vertente antiética ou sem finalidade positiva, caso contrario haverá punição.
 10. Qualquer ato, intenção ou tentativa forçada de derrubar aplicações ou projetos por meio de comandos ou bugs é extremamente proibido.
-
-
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
