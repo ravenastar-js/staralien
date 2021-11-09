@@ -118,13 +118,13 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## 4. RECURSOS PREMIUM
 
-**4.1** Requisitos do `!StarAlien - PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido(a) de usar todas as suas funções de forma permanente, não abuse.
+**4.1** Requisitos do `PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido(a) de usar todas as suas funções de forma permanente, não abuse.
 
 **4.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade dos desenvolvedores, ou seja você doa para que o projeto oferece e não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue.
 
 **4.3** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
 
-**4.4** Só serão concedidos os benefícios dos recursos premium do `!StarAlien - PREMIUM`, caso utilize os métodos de doações informados pelos responsáveis do projeto que é listado no [servidor de suporte](https://discord.gg/pAMsAaG), caso utilize outros métodos de doações não descritos nos comandos, servidor de suporte ou via email, os mesmos não serão creditados e não responsabilizamos por tais doações. Os benefícios não são ativados instantaneamente é de forma manual e não há tempo definido sobre entregas dos benefícios em relação à doações.
+**4.4** Só serão concedidos os benefícios de recursos `PREMIUM`, caso utilize os métodos de doações listados em [servidor de suporte](https://discord.gg/pAMsAaG), caso utilize outros métodos de doações não descritos nos comandos, servidor de suporte ou via e-mail, os mesmos não serão creditados e não responsabilizamos por tais doações. Os benefícios não são ativados instantaneamente é de forma manual e não há tempo definido sobre entregas dos benefícios em relação à doações.
 
 **4.5** Ao realizar doações você autoriza e concorda que não há reembolso em doações.
 
