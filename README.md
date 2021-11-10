@@ -177,6 +177,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **8.4** Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como: `(a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou dos projetos. (c) Má conduta do usuário e dentre outras situações do gênero.`
 
 **8.5** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
+> As informações que vão ser compartilhadas é relacionada a má conduta do usuário na plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) referente aos projetos ou aplicações, os dados sensíveis como endereço de e-mail, IP e afins não vão ser compartilhados de forma pública.
 
 **8.6** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
@@ -208,13 +209,31 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **10.1** Você concorda em isentar e indenizar `!StarAlien`, e suas subsidiárias, afiliadas, equipe de desenvolvimento de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
 
-## 11. Termos jurídicos gerais
+## 11. TERMOS JURÍDICOS GERAIS
 
 **11.1** A equipe de desenvolvimento/`!Ravena👽⃤ - 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
 **11.2** Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
 
 **11.3** Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture (empreendimento conjunto).
+
+## 12. POLÍTICA DE PRIVACIDADE
+
+**12.1** Coletamos o seu endereço IP ou outro identificador único (“Device Identifier”). Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
+
+**12.2** Coletamos o seu endereço de e-mail apenas quando você autoriza as aplicações no [site](https://www.staralienbot.com) via [0auth2](https://discord.com/developers/docs/topics/oauth2) ou quando envia a autorização por escrito via e-mail que é listado na cláusula `1.6`. Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
+
+**12.3** Coletamos mensagens enviadas (“Message content”) referente ao envio de links e domínios. Usamos esses dados para garantir a segurança dos usuários referente ao envio de links e domínios malicioso em servidores Discord.
+
+**12.4** Coletamos mensagens enviadas (“Message content”) referente ao uso de comandos. Usamos esses dados para monitorar usuários mal-intencionados quando tentam abusar das aplicações.
+
+**12.5** Coletamos `ID de sua conta Discord e ID do servidor Discord`. Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
+
+**12.6** Podem ser coletados e processados os dados pessoais por obrigação legal referente ao `TCLE & Privacidade` e quando enviar a autorização por escrito referente a cláusula `1.6`, caso contrário o uso de projetos ou aplicações serão limitados em 90%.
+
+## 13. ANONIMIZAÇÃO, ELIMINAÇÃO OU BLOQUEIO DOS DADOS
+
+**13.1** Não serão anonimizados os dados tratados ou compartilhados por força de lei ou ato normativo de qualquer órgão ou agente público, da União, Estados, DF, Municípios, de quaisquer dos Poderes Executivo, Legislativo ou Judiciário, ou que atenda políticas públicas ou de interesse público. Neste caso, ainda que tais dados possam ser eliminados ou bloqueados pelo controlador, operador ou encarregado, não caberá a estes promover a sua eliminação ou bloqueio junto àqueles a quem tenha compartilhado os dados.
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
