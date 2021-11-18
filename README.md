@@ -1,7 +1,7 @@
 ---
 description: É importante ler o TCLE & Privacidade antes de usar projetos ou aplicações.
 ---
-
+ 
 # TCLE & Privacidade
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
