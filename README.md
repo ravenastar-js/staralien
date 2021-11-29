@@ -136,7 +136,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **4.8** Você concorda que ao realizar qualquer tipo de doação terá que informar dados reais perante sua pessoa, tais como: `data de nascimento, nome completo, documento de identificação, CPF/NIF` para contribuir na fiscalização em relação à doações não autorizadas de menores. As informações devem ser enviadas via email `666ravena.js@gmail.com` e não via Discord. Você não poderá realizar doações se você for uma pessoa impedida sob as leis de qualquer país em relação ao `TCLE & Privacidade`, incluindo o país onde o usuário é residente ou a partir do qual realizar a doação.
 
-**4.9** Recebimentos de doações é ministrada de forma terceirizada, setores/contas de usuários específicos para receberem doações. As informações dos dados as quais doações vão não corresponde com informações referente ao CEO de projetos ou aplicações já que as mesmas são terceirizadas para fins de privacidade e segurança, qualquer tentativa de **doxxing** nessas contas é contra `TCLE & Privacidade`, leia a cláusula `8.10`.
+**4.9** Recebimentos de doações são ministradas de forma terceirizada, setores/contas de usuários específicos para receberem doações. As informações dos dados as quais doações vão não corresponde com informações referente ao CEO de projetos ou aplicações já que as mesmas são terceirizadas para fins de privacidade e segurança, qualquer tentativa de **doxxing** nessas contas é contra `TCLE & Privacidade`, leia a cláusula `8.10`.
 
 **4.10** Os dados informados por CEO de projetos ou aplicações são informações oficiais e seguras para quais vão enviar doações, caso contrário não deverá realizar doações com informações dadas por terceiros (“informações não oficiais”).
 
