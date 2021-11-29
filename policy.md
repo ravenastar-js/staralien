@@ -25,5 +25,5 @@ Por favor, note que nós podemos mudar nossa Política de Uso, a qualquer moment
 10. Qualquer ato, intenção ou tentativa forçada de derrubar aplicações ou projetos por meio de comandos ou bugs é extremamente proibido.
 
 {% hint style="info" %}
-Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien, projetos e aplicações ou o seu uso da obra.
+Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa !StarAlien, projetos e aplicações ou o seu uso da obra.
 {% endhint %}
