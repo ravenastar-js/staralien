@@ -24,5 +24,6 @@ Por favor, note que nós podemos mudar nossa Política de Uso, a qualquer moment
 9. É proibido discussões de qualquer vertente antiética ou sem finalidade positiva, caso contrario haverá punição.
 10. Qualquer ato, intenção ou tentativa forçada de derrubar aplicações ou projetos por meio de comandos ou bugs é extremamente proibido.
 
-
-> Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
+{% hint style="info" %}
+Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien, projetos e aplicações ou o seu uso da obra.
+{% endhint %}
