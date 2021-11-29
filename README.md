@@ -1,7 +1,7 @@
 ---
 description: É importante ler o TCLE & Privacidade antes de usar projetos ou aplicações.
 ---
- 
+
 # TCLE & Privacidade
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
@@ -31,7 +31,9 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**[**Letras azuis ou roxas**](https://guides.github.com/features/mastering-markdown/)**:"** As letras azuis ou roxas são hiperligação/hiperlink ou URL.
 
-> Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
+{% hint style="warning" %}
+Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
+{% endhint %}
 
 **1.1** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes nos BOT's, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas). Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
@@ -43,22 +45,30 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **1.5** `!Ravena👽⃤ - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
 
-> Essa cláusula é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
+{% hint style="info" %}
+Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !Ravena👽⃤ - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
+{% endhint %}
 
-**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/tjnz20/autorização.pdf).
+**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/tjnz20/autoriza%C3%A7%C3%A3o.pdf).
 
-> Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - autorização`
+{% hint style="info" %}
+Cláusula **1.6**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - autorização`.**
+{% endhint %}
 
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
 
-**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/aDVxXL/solicitação.pdf).
+**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/aDVxXL/solicita%C3%A7%C3%A3o.pdf).
 
-> Quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: `367893062812434432 - solicitação`
+{% hint style="info" %}
+Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - solicitação`**
+{% endhint %}
 
 **1.9** Caso haja indícios de adulteração em alguns dos documentos listado nas cláusulas `1.6 e 1.8` será solicitado **reconhecimento de firma** para a validação dos documentos, o **reconhecimento de firma** deverá ser enviado para o e-mail `666ravena.js@gmail.com` e não esqueça de fazer a **autenticação de cópia eletrônica** para enviar via e-mail.
 
-> Os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).\
-> fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
+{% hint style="info" %}
+Cláusula **1.9**, os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).\
+fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
+{% endhint %}
 
 **1.10** Você concorda em cumprir com a [Política de Uso](https://docs.staralienbot.com/policy), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
 
@@ -183,7 +193,10 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **8.4** Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como: `(a) Conversas cujas quais confirma que o usuário violou ToS. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou de projetos e aplicações. (c) Má conduta do usuário e afins.`
 
 **8.5** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
-> As informações que vão ser compartilhadas são relacionadas a má conduta do usuário na plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) referente aos projetos ou aplicações, os dados sensíveis como endereço de e-mail, IP e afins não serão compartilhados de forma pública.
+
+{% hint style="info" %}
+Cláusula **8.5**, as informações que vão ser compartilhadas são relacionadas a má conduta do usuário na plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) referente aos projetos ou aplicações, os dados sensíveis como endereço de e-mail, IP e afins não serão compartilhados de forma pública.
+{% endhint %}
 
 **8.6** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
@@ -241,7 +254,9 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **13.1** Não serão anonimizados os dados tratados ou compartilhados por força de lei ou ato normativo de qualquer órgão ou agente público, da União, Estados, DF, Municípios, de quaisquer dos Poderes Executivo, Legislativo ou Judiciário, ou que atenda políticas públicas ou de interesse público. Neste caso, ainda que tais dados possam ser eliminados ou bloqueados pelo controlador, operador ou encarregado, não caberá a estes promover a sua eliminação ou bloqueio junto àqueles a quem tenha compartilhado os dados.
 
-> Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
+{% hint style="info" %}
+Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien, projetos e aplicações ou o seu uso da obra.
+{% endhint %}
 
 ## Informações adicionais
 
