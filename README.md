@@ -49,15 +49,19 @@ Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer mome
 Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !Ravena👽⃤ - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 {% endhint %}
 
-**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://transfer.sh/tjnz20/autoriza%C3%A7%C3%A3o.pdf).
+**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://drive.google.com/file/d/1fLBzjqcUGIRRqNjkdP8yMg0WaHInKvJO/view?usp=sharing).
 
 {% hint style="info" %}
 Cláusula **1.6**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - autorização`.**
 {% endhint %}
 
+{% hint style="warning" %}
+Cláusula **1.6**, qualquer ato de zombar o sistema de autorização resulta em punição.
+{% endhint %}
+
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
 
-**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://transfer.sh/aDVxXL/solicita%C3%A7%C3%A3o.pdf).
+**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://drive.google.com/file/d/1aae3ge44sUX5HuxtTHr3XoQ1DKA9r1oa/view?usp=sharing).
 
 {% hint style="info" %}
 Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - solicitação`**
@@ -206,7 +210,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **8.9** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
-**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](http://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
+**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
 
 **8.11** Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `!StarAlien` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
