@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 29/11/2021
+* **Última atualização:** 30/12/2021
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES INICIAIS
@@ -49,17 +49,17 @@ Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer mome
 Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !Ravena👽⃤ - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 {% endhint %}
 
-**1.6** Você concorda que terá que enviar autorização por escrito no e-mail `666ravena.js@gmail.com` referente ao `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://drive.google.com/file/d/1fLBzjqcUGIRRqNjkdP8yMg0WaHInKvJO/view?usp=sharing).
+**1.6** Você concorda que terá que enviar autorização por escrito referente à cláusula **1.6** do `TCLE & Privacidade` além da aceitação digital referente as aplicações, [clique aqui baixar a autorização](https://drive.google.com/file/d/1fLBzjqcUGIRRqNjkdP8yMg0WaHInKvJO/view?usp=sharing).
 
 {% hint style="info" %}
-Cláusula **1.6**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - autorização`.**
+Cláusula **1.6**, o e-mail se encontra no documento da autorização e pode ser mudado de acordo com o tempo, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - autorização`.**
 {% endhint %}
 
 {% hint style="warning" %}
-Cláusula **1.6**, qualquer ato de zombar o sistema de autorização resulta em punição.
+Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de autorização resulta em punição.
 {% endhint %}
 
-**1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` terá limitação de 90% ao usar qualquer projeto ou aplicação.
+**1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` só poderá usar 10% de projetos ou aplicações, para usar 100% é necessário enviar a autorização por escrito. 
 
 **1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://drive.google.com/file/d/1aae3ge44sUX5HuxtTHr3XoQ1DKA9r1oa/view?usp=sharing).
 
