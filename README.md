@@ -61,7 +61,7 @@ Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de 
 
 **1.7** Você concorda que se não enviar a autorização por escrito da cláusula `1.6` só poderá usar 10% de projetos ou aplicações, para usar 100% é necessário enviar a autorização por escrito. 
 
-**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://drive.google.com/file/d/1XLAIFUn1foMVN-bwFFdSIlBWlkwbwS6-/view?usp=sharing).
+**1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://drive.google.com/file/d/1XUrmLtZHdJ1OpPT9Jpmv1UAX5HPIF_Bb/view?usp=sharing).
 
 {% hint style="info" %}
 Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - solicitação`**
