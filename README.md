@@ -13,11 +13,11 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 As seguintes definições são aplicáveis em conjunto com outros termos definidos neste instrumento:
 
-**"**_**!StarAlien/Projeto**_**":** Quaisquer aplicações ou projetos de `!Ravena👽⃤ - 367893062812434432`.
+**"**_**!StarAlien/Projeto**_**":** Quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
 
 **"**_**Termos**_**":** TCLE & Privacidade
 
-**"**_**Usuário/Usuários/usuário/usuários**_**":** Demais pessoas que usam quaisquer aplicações ou projetos de `!Ravena👽⃤ - 367893062812434432`.
+**"**_**Usuário/Usuários/usuário/usuários**_**":** Demais pessoas que usam quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
 
 **"**_**Desbanimento**_**":** Ato de remover as punições/proibições para que usuários possam usar `!StarAlien` sem limitações.
 
@@ -25,9 +25,9 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**_**Servidores/servidores/grupo do Discord**_**":** Servidores/Grupos do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord)
 
-**"**_**BOT**_**":** Aplicações do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) feitas em `https://discord.com/developers/applications` por `!Ravena👽⃤ - 367893062812434432`.
+**"**_**BOT**_**":** Aplicações do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) feitas em `https://discord.com/developers/applications` por `!RavenaStar#1682 - 367893062812434432`.
 
-**"**_**!Ravena👽⃤ - 367893062812434432/!Ravena**_**:** CEO de aplicações ou projetos listados em `TCLE & Privacidade`.
+**"**_**!RavenaStar👽 - 367893062812434432/!Ravena**_**:** CEO/Developer de aplicações ou projetos listados em `TCLE & Privacidade`.
 
 **"**[**Letras azuis ou roxas**](https://guides.github.com/features/mastering-markdown/)**:"** As letras azuis ou roxas são hiperligação/hiperlink ou URL.
 
@@ -37,16 +37,16 @@ Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer mome
 
 **1.1** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes nos BOT's, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas). Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
-**1.2** Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir as informações para terceiros exceto se violar `TCLE & Privacidade`/cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
+**1.2** Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir as informações para terceiros exceto se violar `TCLE & Privacidade`/cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!RavenaStar👽 - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
 
 **1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos.
 
 **1.4** Os dados são coletados automaticamente ou voluntariamente com a permissão do usuário, permissão essa cujo qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
 
-**1.5** `!Ravena👽⃤ - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
+**1.5** `!RavenaStar👽 - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
 
 {% hint style="info" %}
-Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !Ravena👽⃤ - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
+Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !RavenaStar - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 {% endhint %}
 
 **1.6** Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlien` para conseguir usar a maioria das funções de projetos ou aplicações.
@@ -124,7 +124,7 @@ fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia
 
 **3.17** Não podemos ou garantimos que `!StarAlien` vão estar sempre seguros ou livres de erros, portanto caso haja erros cujos quais possam ocasionar danos aos demais envolvidos de forma não intencional, nós não responsabilizamos por tais atos, ao usar `!StarAlien` você isenta o mesmo sobre quaisquer danos que possa ter ocasionado de forma não intencional.
 
-**3.18** A maioria dos dados só podem ser acessados por `!Ravena👽⃤ - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros, informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula já que são informações voláteis.
+**3.18** A maioria dos dados só podem ser acessados por `!RavenaStar👽 - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros, informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula já que são informações voláteis.
 
 **3.19** `!StarAlien` pode criar convites em seus servidores e a criação dos invites só é possível pela equipe de desenvolvimento e somente a equipe vai poder entrar através do link criado, ao usar `!StarAlien` você concorda automaticamente com tudo que foi informado autorizando a equipe de desenvolvimento entrar pelo link que foi criado por `!StarAlien` ou aos demais projetos.
 
@@ -204,7 +204,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **8.8** Não dê sugestões, opiniões ou indução do que a equipe de desenvolvimento deve fazer ou não referente aos projetos ou aplicações em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmo, pois se nunca usou ou não entende o foco principal da equipe de desenvolvimento não persista em continuar, caso continue será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
-**8.9** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
+**8.9** Você concorda que `!RavenaStar👽- 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
 **8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
 
@@ -212,7 +212,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **8.12** É proibido discussões de qualquer vertente antiética ou sem finalidade positiva, caso contrario haverá punição.
 
-**8.13** Você concorda que `!Ravena👽⃤ - 367893062812434432`, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode realizar punições em sua conta ou realizar bloqueio geral de todos os projetos e aplicações.
+**8.13** Você concorda que `!RavenaStar👽- 367893062812434432`, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode realizar punições em sua conta ou realizar bloqueio geral de todos os projetos e aplicações.
 
 ## 9. DESBANIMENTO
 
@@ -230,7 +230,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 ## 11. TERMOS JURÍDICOS GERAIS
 
-**11.1** A equipe de desenvolvimento/`!Ravena👽⃤ - 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
+**11.1** A equipe de desenvolvimento/`!RavenaStar👽- 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
 **11.2** Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes Termos, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes Termos, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
 
