@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 24/01/2022
+* **Última atualização:** 17/02/2022
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES INICIAIS
@@ -17,17 +17,17 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**_**Termos**_**":** TCLE & Privacidade
 
-**"**_**Usuário/Usuários/usuário/usuários**_**":** Demais pessoas que usam quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
+**"**_**Usuário(s)**_**":** Demais pessoas que usam quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
 
 **"**_**Desbanimento**_**":** Ato de remover as punições/proibições para que usuários possam usar `!StarAlien` sem limitações.
 
 **"**_**Banido(a)/Banimento**_**":** Ato de punir/proibir ou limitar que usuários usem projetos ou aplicações.
 
-**"**_**Servidores/servidores/grupo do Discord**_**":** Servidores/Grupos do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord)
+**"**_**Servidores/grupo do Discord**_**":** Servidores/Grupos do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord)
 
-**"**_**BOT**_**":** Aplicações do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) feitas em `https://discord.com/developers/applications` por `!RavenaStar#1682 - 367893062812434432`.
+**"**_**BOT's**_**":** Aplicações do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) feitas em `https://discord.com/developers/applications` por `!RavenaStar👽 - 367893062812434432`.
 
-**"**_**!RavenaStar👽 - 367893062812434432/!Ravena**_**:** CEO/Developer de aplicações ou projetos listados em `TCLE & Privacidade`.
+**"**_**!RavenaStar👽 - 367893062812434432/!RavenaStar**_**:** CEO/Developer de aplicações ou projetos listados em `TCLE & Privacidade`.
 
 **"**[**Letras azuis ou roxas**](https://guides.github.com/features/mastering-markdown/)**:"** As letras azuis ou roxas são hiperligação/hiperlink ou URL.
 
@@ -35,7 +35,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 {% endhint %}
 
-**1.1** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes nos BOT's, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas). Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
+**1.1** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes nos BOT's ou projetos, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse termo limita o uso de qualquer aplicação/projeto podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas) da equipe. Portanto, ao usar qualquer projeto ou aplicações, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
 **1.2** Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir as informações para terceiros exceto se violar `TCLE & Privacidade`/cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!RavenaStar👽 - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
 
@@ -46,16 +46,16 @@ Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer mome
 **1.5** `!RavenaStar👽 - 367893062812434432` confirma que não vai adulterar nenhum dos dado referente a aceitação do `TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado os projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com `TCLE & Privacidade` e com isso serão adicionados na blacklist dos projetos e aplicações.
 
 {% hint style="info" %}
-Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !RavenaStar - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
+Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !RavenaStar👽 - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 {% endhint %}
 
-**1.6** Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlien` para conseguir usar a maioria das funções de projetos ou aplicações.
+**1.6** Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `!StarAlien` para conseguir usar a maioria das funções de projetos ou aplicações.
 
 {% hint style="warning" %}
 Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de verificação resulta em punição.
 {% endhint %}
 
-**1.7** Você concorda que se não estiver registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlien` referente a cláusula `1.6` só poderá usar 10% de projetos ou aplicações, para usar 100% é necessário seguir os procedimentos da cláusula `1.6`.
+**1.7** Você concorda que se não estiver registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `!StarAlien` referente a cláusula `1.6` só poderá usar 10% de projetos ou aplicações, para usar 100% é necessário seguir os procedimentos da cláusula `1.6`.
 
 **1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, poderá enviar uma solicitação por escrito referente a exclusão de dados armazenados no banco de dados, [clique aqui baixar a solicitação](https://drive.google.com/file/d/1XUrmLtZHdJ1OpPT9Jpmv1UAX5HPIF_Bb/view?usp=sharing).
 
@@ -106,7 +106,7 @@ fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia
 
 **3.8** Abusar de alguns comandos, fará com que você tenha limitações no uso das funções de `!StarAlien`, portanto evite o máximo para não utilizá-lo de forma irregular para evitar também que você seja banido(a) de usar todas as suas funções.
 
-**3.9** Ao usar `!StarAlien` você concorda que são aplicações confiáveis, não viola os termos de serviço do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao mesmo espalhando asneiras, falácias, boatos ou algo do gênero, é contra a `TCLE & Privacidade`.
+**3.9** Ao usar `!StarAlien` você concorda que são aplicações confiáveis, não viola os termos de serviço do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao mesmo espalhando asneiras, falácias, boatos ou algo do gênero sem nenhum fundamento ou provas, é contra a `TCLE & Privacidade`.
 
 **3.10** Ao usar `!StarAlien` ou qualquer comando do mesmo estará concordando automaticamente com `TCLE & Privacidade`.
 
@@ -114,7 +114,7 @@ fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia
 
 **3.12** Você não pode usar `!StarAlien` caso discorde do `TCLE & Privacidade`, o uso forçado do mesmo haverá punições.
 
-**3.13** Não terá direito de reclamação caso viole algumas das cláusulas do `TCLE & Privacidade`.
+**3.13** Não terá direito de reclamação caso viole algumas das cláusulas do `TCLE & Privacidade` e a equipe tiver provas fidedigna sobre tal ato.
 
 **3.14** O nome `!StarAlien` é referente a qualquer aplicação ou desenvolvimento de projeto.
 
