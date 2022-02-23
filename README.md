@@ -52,7 +52,7 @@ Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de nã
 **1.6** Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `!StarAlien` para conseguir usar a maioria das funções de projetos ou aplicações.
 
 {% hint style="warning" %}
-Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de verificação resulta em punição.
+Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de verificação resulta em punição, o requisito dessa clásula é temporário e futuramente ela não será necessária.
 {% endhint %}
 
 **1.7** Você concorda que se não estiver registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `!StarAlien` referente a cláusula `1.6` só poderá usar 10% de projetos ou aplicações, para usar 100% é necessário seguir os procedimentos da cláusula `1.6`.
