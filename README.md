@@ -19,7 +19,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**_**Usuário(s)**_**":** Demais pessoas que usam quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
 
-**"**_**Desbanimento**_**":** Ato de remover as punições/proibições para que usuários possam usar `!StarAlien` sem limitações.
+**"**_**Desbanimento**_**":** Ato de remover as punições/proibições para que usuários possam usar projetos e aplicações sem limitações.
 
 **"**_**Banido(a)/Banimento**_**":** Ato de punir/proibir ou limitar que usuários usem projetos ou aplicações.
 
