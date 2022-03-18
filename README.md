@@ -63,12 +63,7 @@ Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de 
 Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu ID do Discord e o motivo, exemplo: **`367893062812434432 - solicitação`**
 {% endhint %}
 
-**1.9** Caso haja indícios de adulteração em alguns dos documentos listado nas cláusulas `1.6 e 1.8` será solicitado **reconhecimento de firma** para a validação dos documentos, o **reconhecimento de firma** deverá ser enviado para o e-mail `666ravena.js@gmail.com` e não esqueça de fazer a **autenticação de cópia eletrônica** para enviar via e-mail.
-
-{% hint style="info" %}
-Cláusula **1.9**, os cartórios brasileiros já podem autenticar documentos por meio eletrônico. O novo serviço possibilitará a certificação de cópias de forma online pelo site [cenad.e-notariado.org.br](https://cenad.e-notariado.org.br).\
-fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia/2020-11/cartorios-ja-podem-autenticar-documentos-por-meio-digital)
-{% endhint %}
+**1.9** Caso haja indícios de adulteração no documento listado na cláusula `1.8` os envolvidos serão punidos.
 
 **1.10** Você concorda em cumprir com a [Política de Uso](https://docs.staralienbot.com/policy), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
 
@@ -76,7 +71,7 @@ fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
-**2.1** Ao usar `!StarAlien` (o "Bot") ou qualquer outro projeto/aplicação, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
+**2.1** Ao usar qualquer projeto/aplicação, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
 
 **2.2** Ao utilizar quaisquer das funcionalidades de projetos ou aplicações, o usuário confirma que leu, entendeu e aceitou o presente TCLE & Privacidade em sua totalidade. Caso não concorde com TCLE & Privacidade, o usuário não deverá utilizar projetos ou aplicações.
 
@@ -86,7 +81,7 @@ fonte: [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/geral/noticia
 
 **2.5** O usuário entende e concorda que o uso dos projetos ou aplicações é por sua conta e risco e que são fornecidos "como estão" e "como disponíveis".
 
-**2.6** O usuário entende e concorda que`!StarAlien`, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os projetos ou aplicações, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, !StarAlien, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos projetos e aplicações atenderá a suas necessidades, (b) o uso dos projetos ou aplicações será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através dos projetos ou aplicações serão precisos.
+**2.6** O usuário entende e concorda que `!StarAlien`, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os projetos ou aplicações, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, !StarAlien, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos projetos e aplicações atenderá a suas necessidades, (b) o uso dos projetos ou aplicações será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através dos projetos ou aplicações serão precisos.
 
 ## 3. BOT
 
