@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 17/02/2022
+* **Última atualização:** 02/04/2022
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES INICIAIS
@@ -123,27 +123,35 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **3.19** `!StarAlien` pode criar convites em seus servidores e a criação dos invites só é possível pela equipe de desenvolvimento e somente a equipe vai poder entrar através do link criado, ao usar `!StarAlien` você concorda automaticamente com tudo que foi informado autorizando a equipe de desenvolvimento entrar pelo link que foi criado por `!StarAlien` ou aos demais projetos.
 
-## 4. RECURSOS PREMIUM
+## 4. RECURSOS PREMIUM & POLÍTICA DE DOAÇÃO
 
-**4.1** Requisitos do `PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido(a) de usar todas as suas funções de forma permanente, não abuse.
+**4.1** As doações objeto desta Política de Doação referem-se a contribuições realizadas de forma voluntária, facultativa e sem dever de continuidade, pelos (“Doador” ou “Doadores”).
 
-**4.2** Não temos como obrigação entregar recursos em troca de doações, todas as doações são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade dos desenvolvedores, ou seja você doa para que o projeto oferece e não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue.
+**4.2** Ao realizar doações para projetos ou aplicações nos termos aqui previstos, você reconhece e declara que está de acordo com esta Política de Doação.
 
-**4.3** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
+**4.3** Não temos como obrigação entregar recursos em troca de doações, todas as doações são solidárias e contribuem para que possamos continuar o projeto, motivação. Oferecemos benéficos extras como cortesia para quem apoiar o projeto. Você faz uma doação para o projeto pelos recursos que ele já tem implementado, a adição de novas atualização ao projeto é de responsabilidade dos desenvolvedores, ou seja você doa para que o projeto oferece e não para melhorias futuras que ele vai ter. Trabalhamos com doações e tudo que é anunciado é entregue.
 
-**4.4** Só serão concedidos os benefícios de recursos `PREMIUM`, caso utilize os métodos de doações listados em [servidor de suporte](https://discord.gg/pAMsAaG), caso utilize outros métodos de doações não descritos nos comandos, servidor de suporte ou via e-mail, os mesmos não serão creditados e não responsabilizamos por tais doações. Os benefícios não são ativados instantaneamente é de forma manual e não há tempo definido sobre entregas dos benefícios em relação à doações.
+**4.4** Requisitos do `PREMIUM` se encontra listados no [servidor de suporte](https://discord.gg/pAMsAaG), tendo comandos disponíveis apenas para doadores ou parceiros, a utilização forçada de ambos fará com que você seja banido(a) de usar todas as suas funções de forma permanente, não abuse.
 
-**4.5** Ao realizar doações você autoriza e concorda que não há reembolso em doações.
+**4.5** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
 
-**4.6** Se o(a) doador(a) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal ou o artigo referente ao País do(a) doador(a).
+**4.6** Como a doação é voluntária e facultativa, o fato de o Doador não realizar o pagamento de uma doação, por qualquer motivo, não lhe trará consequências como juros ou multas. Porém, o Doador que deixar de pagar suas doações não vão receber mais vantagens em aplicações ou projetos relacionados a funções `PREMIUM`.
 
-**4.7** Caso seja menor de idade será possível doações por parte de confirmação e acompanhamento do responsável legal.
+**4.7** Só serão concedidos os benefícios de recursos `PREMIUM`, caso utilize os métodos de doações listados em [servidor de suporte](https://discord.gg/pAMsAaG), caso utilize outros métodos de doações não descritos nos comandos, servidor de suporte ou via e-mail, os mesmos não serão creditados e não responsabilizamos por tais doações. Os benefícios não são ativados instantaneamente é de forma manual e não há tempo definido sobre entregas dos benefícios em relação à doações.
 
-**4.8** Você concorda que ao realizar qualquer tipo de doação terá que informar dados reais perante sua pessoa, tais como: `data de nascimento, nome completo, documento de identificação, CPF/NIF` para contribuir na fiscalização em relação à doações não autorizadas de menores. As informações devem ser enviadas via email `666ravena.js@gmail.com` e não via Discord. Você não poderá realizar doações se você for uma pessoa impedida sob as leis de qualquer país em relação ao `TCLE & Privacidade`, incluindo o país onde o usuário é residente ou a partir do qual realizar a doação.
+**4.8** Ao realizar doações você autoriza e concorda que não há reembolso em doações, exceto em casos de erro no processamento, duplicidade, fraude ou outras situações.
 
-**4.9** Recebimentos de doações são ministradas de forma terceirizada, setores/contas de usuários específicos para receberem doações. As informações dos dados as quais doações vão não corresponde com informações referente ao CEO de projetos ou aplicações já que as mesmas são terceirizadas para fins de privacidade e segurança, qualquer tentativa de **doxxing** nessas contas é contra `TCLE & Privacidade`, leia a cláusula `8.10`.
+**4.9** Se o(a) doador(a) realizar o ato de calúnia, difamação, injúria e ameaças o mesmo será acionado judicialmente pelos [Art. 138](https://www.jusbrasil.com.br/topicos/10622974/artigo-138-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 139](https://www.jusbrasil.com.br/topicos/10622728/artigo-139-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940), [Art. 140](https://www.jusbrasil.com.br/topicos/10622653/artigo-140-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Art. 147](https://www.jusbrasil.com.br/topicos/10621647/artigo-147-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) do Código Penal ou o artigo referente ao País do(a) doador(a).
 
-**4.10** Os dados informados por CEO de projetos ou aplicações são informações oficiais e seguras para quais vão enviar doações, caso contrário não deverá realizar doações com informações dadas por terceiros (“informações não oficiais”).
+**4.10** Caso seja menor de idade será possível doações por parte de confirmação e acompanhamento do responsável legal.
+
+**4.11** Você concorda que ao realizar qualquer tipo de doação terá que informar dados reais perante sua pessoa, tais como: `data de nascimento, nome completo, documento de identificação, CPF/NIF` para contribuir na fiscalização em relação à doações não autorizadas de menores. As informações devem ser enviadas via email `666ravena.js@gmail.com` e não via Discord. Você não poderá realizar doações se você for uma pessoa impedida sob as leis de qualquer país em relação ao `TCLE & Privacidade`, incluindo o país onde o usuário é residente ou a partir do qual realizar a doação.
+
+**4.12** Recebimentos de doações são gerenciadas de forma terceirizada, setores/contas de usuários específicos para receber doações. As informações dos dados as quais doações vão, não corresponde com informações referente aos CEO's de projetos ou aplicações já que as mesmas são terceirizadas para fins de privacidade e segurança, qualquer tentativa de **doxxing** nessas contas é contra `TCLE & Privacidade`, leia a cláusula `8.10`.
+
+**4.13** Os dados informados pelos CEO's de projetos ou aplicações são informações oficiais e seguras para quais vão enviar doações, caso contrário não deverá realizar doações com informações dadas por terceiros (“informações não oficiais”).
+
+**4.14** Esta Política de Doação pode ser atualizada e alterada a qualquer momento, sempre que necessário e visando o aperfeiçoamento da relação com projetos e aplicações(“StarAlien”) e seus Doadores.
 
 ## 5. BANCO DE DADOS E ARMAZENAMENTOS
 
