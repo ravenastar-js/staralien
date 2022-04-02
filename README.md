@@ -9,7 +9,7 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 * **Última atualização:** 02/04/2022
 * **Efetividade:** 10/04/2020
 
-## 1. DEFINIÇÕES INICIAIS
+## ⚖️ Art. 1º DEFINIÇÕES INICIAIS
 
 As seguintes definições são aplicáveis em conjunto com outros termos definidos neste instrumento:
 
@@ -69,7 +69,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **1.11** Projetos ou aplicações públicas tem nome com referência em Alien, Star, Ravena ou algo do gênero:`StarAlien, StarlineBR, Raveninha...`
 
-## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
+## ⚖️ Art. 2º ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
 **2.1** Ao usar qualquer projeto/aplicação, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado aos Termos, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com estes Termos.
 
@@ -83,7 +83,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **2.6** O usuário entende e concorda que `!StarAlien`, as suas subsidiárias e afiliadas e seus licenciados não fazem garantias expressas e rejeitam todas as garantias implícitas sobre os projetos ou aplicações, incluindo garantias de comercialização, adequação a um determinado fim e não-violação. sem limitar a generalidade do anterior, !StarAlien, as suas subsidiárias e afiliadas e licenciadores não garantem que: (a) uso dos projetos e aplicações atenderá a suas necessidades, (b) o uso dos projetos ou aplicações será ininterrupto, pontual, seguro e isento de erros, e (c) dados de uso fornecido através dos projetos ou aplicações serão precisos.
 
-## 3. BOT
+## ⚖️ Art. 3º BOT
 
 **3.1** Qualquer ato de difamação, xingamentos e outros afins que possam prejudicar a imagem de `!StarAlien` são expressamente proibidos, lembre-se que `!StarAlien` é um BOT. Nenhum usuário tem obrigação de usar ou adicionar `!StarAlien` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido(a) de usar todas as suas funções.
 
@@ -123,7 +123,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **3.19** `!StarAlien` pode criar convites em seus servidores e a criação dos invites só é possível pela equipe de desenvolvimento e somente a equipe vai poder entrar através do link criado, ao usar `!StarAlien` você concorda automaticamente com tudo que foi informado autorizando a equipe de desenvolvimento entrar pelo link que foi criado por `!StarAlien` ou aos demais projetos.
 
-## 4. RECURSOS PREMIUM & POLÍTICA DE DOAÇÃO
+## ⚖️ Art. 4º RECURSOS PREMIUM & POLÍTICA DE DOAÇÃO
 
 **4.1** As doações objeto desta Política de Doação referem-se a contribuições realizadas de forma voluntária, facultativa e sem dever de continuidade, pelos (“Doador” ou “Doadores”).
 
@@ -153,7 +153,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **4.14** Esta Política de Doação pode ser atualizada e alterada a qualquer momento, sempre que necessário e visando o aperfeiçoamento da relação com projetos e aplicações(“StarAlien”) e seus Doadores.
 
-## 5. BANCO DE DADOS E ARMAZENAMENTOS
+## ⚖️ Art. 5º BANCO DE DADOS E ARMAZENAMENTOS
 
 **5.1** Quase todas as informações dos servidores onde `!StarAlien` está associado, são registradas em seu banco de dados, sendo assim todas as devidas alterações também seguirão com as mesmas em seu banco de dados podendo ocorrer também à perda de informações.
 
@@ -165,7 +165,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 > * 5.2.4 Perda de dados e informações caso ocorram atualização no Node.js/Discord.js.
 > * 5.2.5 Perda de dados e informações caso ocorram manutenções no `!StarAlien`.
 
-## 6. INDISPONIBILIDADE
+## ⚖️ Art. 6º INDISPONIBILIDADE
 
 **6.1** Podem ocorrer determinadas indisponibilidades em projetos ou aplicações fazendo que os mesmos não funcionem corretamente e/ou fiquem offline em seu servidor. A equipe de desenvolvimento não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso.
 
@@ -177,7 +177,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **6.5** O usuário entende que há possibilidade de projetos ou aplicações entrarem em manutenções a qualquer momento, sem aviso prévio.
 
-## 7. PERMISSÕES
+## ⚖️ Art. 7º PERMISSÕES
 
 **7.1** Dê ao `!StarAlien` em seu servidor a permissão `ADMINISTRADOR`, para que `!StarAlien` funcione corretamente e não dê problemas caso o mesmo tente executar algum comando e não ter permissão para isso.
 
@@ -185,7 +185,7 @@ Cláusula **1.8**, quando for enviar o e-mail na parte "assunto" informe o seu I
 
 **7.3** Caso queira ajudar a equipe de desenvolvimento em relação aos projetos/`!StarAlien` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) da equipe de desenvolvimento é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia via ticket/servidor de suporte ou formulário.
 
-## 8. PUNIÇÕES
+## ⚖️ Art. 8º PUNIÇÕES
 
 **8.1** As punições ocorrerão conforme a gravidade da infração. A equipe de desenvolvimento determinará a melhor forma de punir cada usuário conforme o descumprimento de uma das cláusulas desse termo.
 
@@ -217,7 +217,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **8.13** Você concorda que `!RavenaStar👽- 367893062812434432`, a seu exclusivo critério e por qualquer motivo ou sem motivo, pode realizar punições em sua conta ou realizar bloqueio geral de todos os projetos e aplicações.
 
-## 9. DESBANIMENTO
+## ⚖️ Art. 9º DESBANIMENTO
 
 **9.1** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento, através do servidor de suporte ou em seus privados(DM).
 
@@ -227,11 +227,11 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **9.4** Ao ser desbanido(a) terá que reconquistar tudo novamente, a equipe de desenvolvimento afirma que salva os backups do banco de dados do bot, o usuário banido pode ter os dados restabelecidos, porém o pagamento para reestabelecer os dados é a parte, pagamento para reestabelecer os dados vai contabilizar como doação.
 
-## 10. INDENIZAÇÃO
+## ⚖️ Art. 10º INDENIZAÇÃO
 
 **10.1** Você concorda em isentar e indenizar `!StarAlien`, e suas subsidiárias, afiliadas, equipe de desenvolvimento de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
 
-## 11. TERMOS JURÍDICOS GERAIS
+## ⚖️ Art. 11º TERMOS JURÍDICOS GERAIS
 
 **11.1** A equipe de desenvolvimento/`!RavenaStar👽- 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
@@ -239,7 +239,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **11.3** Não existem terceiros beneficiários destes Termos. As partes são contratantes independentes, e nada nestes termos cria uma agência, parceria ou joint venture (empreendimento conjunto).
 
-## 12. POLÍTICA DE PRIVACIDADE
+## ⚖️ Art. 12º POLÍTICA DE PRIVACIDADE
 
 **12.1** Coletamos o seu endereço IP ou outro identificador único (“Device Identifier”). Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
 
@@ -253,7 +253,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **12.6** Podem ser coletados e processados os dados pessoais por obrigação legal referente ao `TCLE & Privacidade` e quando enviar a autorização por escrito referente a cláusula `1.6`, caso contrário o uso de projetos ou aplicações serão limitados em 90%.
 
-## 13. ANONIMIZAÇÃO, ELIMINAÇÃO OU BLOQUEIO DOS DADOS
+## ⚖️ Art. 13º ANONIMIZAÇÃO, ELIMINAÇÃO OU BLOQUEIO DOS DADOS
 
 **13.1** Não serão anonimizados os dados tratados ou compartilhados por força de lei ou ato normativo de qualquer órgão ou agente público, da União, Estados, DF, Municípios, de quaisquer dos Poderes Executivo, Legislativo ou Judiciário, ou que atenda políticas públicas ou de interesse público. Neste caso, ainda que tais dados possam ser eliminados ou bloqueados pelo controlador, operador ou encarregado, não caberá a estes promover a sua eliminação ou bloqueio junto àqueles a quem tenha compartilhado os dados.
 
