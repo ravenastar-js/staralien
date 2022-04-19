@@ -29,7 +29,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**_**!RavenaStar👽 - 367893062812434432/!RavenaStar**_**:** CEO/Developer de aplicações ou projetos listados em `TCLE & Privacidade`.
 
-**"**[**Letras azuis, verdes ou roxas**](https://guides.github.com/features/mastering-markdown/)**:"** As letras azuis ou roxas são hiperligação/hiperlink ou URL.
+**"**[**Letras azuis, verdes ou roxas**](https://guides.github.com/features/mastering-markdown/)**"**: Letras azuis, verdes ou roxas são hiperligação/hiperlink ou URL.
 
 {% hint style="warning" %}
 Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
@@ -251,7 +251,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **12.5** Coletamos `ID de sua conta Discord e ID do servidor Discord`. Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
 
-**12.6** Podem ser coletados e processados os dados pessoais por obrigação legal referente ao `TCLE & Privacidade` e quando enviar a autorização por escrito referente a cláusula `1.6`, caso contrário o uso de projetos ou aplicações serão limitados em 90%.
+**12.6** Podem ser coletados e processados os dados pessoais por obrigação legal referente ao `TCLE & Privacidade`.
 
 ## ⚖️ Art. 13º ANONIMIZAÇÃO, ELIMINAÇÃO OU BLOQUEIO DOS DADOS
 
