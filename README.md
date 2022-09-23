@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar projetos ou ap
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 21/07/2022
+* **Última atualização:** 22/09/2022
 * **Efetividade:** 10/04/2020
 
 ## ⚖️ Art. 1º DEFINIÇÕES INICIAIS
@@ -43,7 +43,7 @@ Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer mome
 
 **1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por este documento, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido no mesmo.
 
-**1.4** Os dados são coletados automaticamente ou voluntariamente com a permissão do usuário, permissão essa cujo qual deu quando usou qualquer aplicação ou projeto. Ao usar quaisquer projetos ou aplicações você esta incluso parcialmente nas normas desse documento.
+**1.4** Os dados são coletados automaticamente ou voluntariamente com a permissão do usuário, permissão essa cujo qual deu quando usou qualquer aplicação ou projeto. Ao usar quaisquer projetos ou aplicações você esta incluso nas normas desse documento.
 
 **1.5** `!RavenaStar👽 - 367893062812434432` confirma que não vai adulterar nenhum dos dados referente a aceitação dos termos/`TCLE & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com esse documento e com isso serão adicionados na blocklist de projetos e aplicações.
 
@@ -54,14 +54,14 @@ Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de nã
 **1.6** Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlienBot` para conseguir usar a maioria das funções de projetos ou aplicações.
 
 {% hint style="warning" %}
-Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de verificação resulta em punição.
+Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar do sistema de verificação resulta em punição.
 {% endhint %}
 
 **1.7** Você concorda que se não estiver registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlienBot` referente a cláusula `1.6` só poderá usar apenas 10% de projetos ou aplicações, para usar 100% é necessário seguir os procedimentos da cláusula `1.6`.
 
 **1.8** Caso arrependeu-se de usar qualquer aplicação ou projeto, explique sua situação no [servidor de suporte](https://discord.gg/pAMsAaG), abra um ticket pelo `MailAlien 📬#3888`.
 
-**1.9** Você concorda em cumprir com a [Política de Uso](https://docs.staralienbot.com/policy), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
+**1.9** Você concorda em cumprir com a [Diretrizes da comunidade](./), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
 
 **1.10** Projetos ou aplicações públicas tem nome com referência em Alien, Star, Ravena ou algo do gênero:`StarAlienBot, StarAlien, StarlineBR, Raveninha...`
 
@@ -91,9 +91,13 @@ Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar o sistema de 
 
 **3.4** Ofender os desenvolvedores, membros e a equipe do servidor de suporte de `StarAlienBot` ou em suas DM's (Mensagens Diretas), fará com que você seja punido(a) de acordo com esse documento.
 
-**3.5** Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de desenvolvimento usem `StarAlienBot` ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores ("se os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada") e aos usuários que realizaram a ação, com isso os servidores/usuários em questão serão adicionados na blocklist de qualquer projeto ou aplicação.
+**3.5** Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de desenvolvimento usem `StarAlienBot`, manifestar-se diante a situação ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores ("se os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada") e aos usuários que realizaram a ação, com isso os servidores/usuários em questão serão adicionados na blocklist de qualquer projeto ou aplicação.
 
 **3.6** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções de `StarAlienBot` e será reportado(a) para a equipe do Discord se possível. Fique sempre atento(a) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou esse documento.
+
+{% hint style="warning" %}
+Cláusula **3.6**, É válido pra qualquer suspeita no uso de selfbot, venda de contas e servidores por valores monetários, contas de usuário automatizadas (auto-bots), macros/plugins, uso de avatar NSFW e afins
+{% endhint %}
 
 **3.7** `StarAlienBot` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW ou NSFL (not safe for work/not safe for life).
 
@@ -205,7 +209,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **8.9** Você concorda que `!RavenaStar👽- 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
-**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
+**8.10** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](https://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
 
 **8.11** Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `StarAlienBot` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
@@ -220,7 +224,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 **9.2** Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas e autoconhecimento do erro, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
 
 {% hint style="info" %}
-Cláusula **9.2**, para o desbanimento ser concretizado com o autoconhecimento do erro você deve fazer uma postagem pública em seus servidores marcando `@everyone` e informado o motivo, se futuramente a postagem for removida, o banimento voltará. 
+Cláusula **9.2**, para o desbanimento ser concretizado com o autoconhecimento do erro você deve fazer uma postagem pública em seus servidores marcando `@everyone` e informado o motivo, se futuramente a postagem for removida, o banimento voltará.
 {% endhint %}
 
 **9.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores.
@@ -263,9 +267,6 @@ Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O
 
 ## Informações adicionais
 
-• 🐛 [**Reportar bugs**](https://forms.gle/GHqxYwHHjWHR1Szp9)\
-• 👮‍♂️ [**Denunciar usuários**](https://forms.gle/33ScNDMoHP13rm2BA)
+• 🐛👮‍♂️[**Reportar bugs & Denunciar usuários**](https://discord.gg/pAMsAaG)
 
 ℹ [Documentação](https://docs.staralienbot.com)
-
-ℹ `!StarAlien ( BETA )` é um bot **free** que tem vários sistemas de moderação, administração dentre outros, a maioria dos sistemas são estáticos não tendo a possibilidade de fazer alterações personalizadas, são sistemas padronizados. A versão **BETA** é mais instável podendo ter vários recursos modificados ou removidos durante o desenvolvimento.
